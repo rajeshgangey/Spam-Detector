@@ -1,0 +1,15 @@
+text,label
+"Congratulations! You won a free prize, claim now",spam
+"URGENT: claim your cash reward today",spam
+"Win a new phone by clicking this link",spam
+"Limited offer, get a discount now",spam
+"Your account won a gift card, claim prize",spam
+"Free entry in our competition, reply now",spam
+"Can you send me the lecture notes?",ham
+"Are we still meeting at the library today?",ham
+"Please call me when you reach home",ham
+"The lab practical is scheduled for Monday",ham
+"I shared the project document with you",ham
+"Thanks for helping me with the assignment",ham
+"Your appointment is confirmed for tomorrow",ham
+"Let's discuss the presentation after class",ham
